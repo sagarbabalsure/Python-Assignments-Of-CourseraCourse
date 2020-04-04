@@ -13,3 +13,11 @@ h = float(hrs)
 r = float(rate)
 p = computepay(h,r)
 print("Pay",p)
+
+'''OUTPUT
+
+Enter Hours:45
+Enter rates:10.50
+Pay 498.75
+
+'''

@@ -21,3 +21,17 @@ while True:
 
 print("Maximum is", largest)
 print("Minimum is", smallest)
+
+'''OUTPUT
+
+Enter a number: 7
+Enter a number: 2
+Enter a number: bob
+Invalid input
+Enter a number: 10
+Enter a number: 4
+Enter a number: done
+Maximum is 10
+Minimum is 2
+
+'''
