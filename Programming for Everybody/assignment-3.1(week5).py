@@ -9,3 +9,11 @@ if h<40:
 else:
     d = h-40
     print((40*r)+(d*r*1.5))
+
+'''OUTPUT
+
+Enter Hours:45
+Enter rates per hours:10.50
+498.75
+
+'''

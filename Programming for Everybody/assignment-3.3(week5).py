@@ -21,3 +21,10 @@ elif s<0.6:
     print("F")
 else:
     print("error")
+
+''' OUTPUT
+
+Enter Score: 0.85
+B
+
+'''
